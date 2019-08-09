@@ -2,6 +2,8 @@
 
 This repository contains a collection of R6 Player data collected from the [R6 Tab API](https://github.com/Tabwire/R6Tab-API/).
 
+Note: This is still a WIP
+
 ## Operations
 
 ### Outback
@@ -18,5 +20,5 @@ n = 103689
 
 First Pulled on 22-06-2019
 
-Last Pulled on 28-06-2019
+Last Pulled on 08-08-2019
 
