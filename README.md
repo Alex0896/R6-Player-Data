@@ -1,6 +1,6 @@
 # R6-Player-Data
 
-This repository contains a collection of R6 Player data collected from the [R6 Tab API](https://github.com/Tabwire/R6Tab-API/).
+This repository contains a collection of R6 Seaonal Player data taken from the [R6 Tab API](https://github.com/Tabwire/R6Tab-API/). As of writing this seasonal data is not available to the public. This project's purpose is an attempt to create that seasonal data for use.
 
 Note: This is still a WIP
 
